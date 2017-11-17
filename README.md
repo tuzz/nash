@@ -29,9 +29,3 @@ Then require it in an initializer:
 ```ruby
 require 'nash'
 ```
-
-## Contribution
-
-Please feel free to contribute, either through pull requests or feature requests here on Github.
-
-For news and the latest updates, follow me on Twitter ([@cpatuzzo](https://twitter.com/#!/cpatuzzo)).
